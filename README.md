@@ -1,4 +1,4 @@
-<h1 align="center">A Khiaotic ReadMe Generator! </h1>
+<h1 align="center">A Thinkful Pizza Init Repo! </h1>
 
 ## ✨Overview (description)✨
 <h3 align="center">This project is for demonstration and practice purposes for a "first" repo</h3>
